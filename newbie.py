@@ -75,6 +75,34 @@ for item in fruits:
 
 
 
+touple = ('banana', 'apple', 'dragonfruit', 'tomato')
+
+print(touple)
+
+#sets
+
+fruity = {'banana', 'apple', 'dragonfruit', 'tomato', 'banana'}
+
+print(fruity)
+
+
+
+
+
+
+character = {'name': 'Yoshi', 'color': 'green', 'eggs': 'true', 'age': 22}
+
+print(character['name'])
+
+
+
+
+
+
+
+
+
+
 
 
 
