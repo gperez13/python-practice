@@ -96,8 +96,12 @@ print(character['name'])
 
 
 
+variab = 13
 
-
+if variab == 17:
+	print('true dat')
+else: 
+	print('nah, fam')
 
 
 
