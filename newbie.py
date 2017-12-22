@@ -107,6 +107,57 @@ else:
 
 
 
+test = [1,2,3,4,5,6,7,8,9]
+
+
+for num in test:
+	if num == 7:
+		print('Got em!')
+		continue
+	print(num)
+
+#break stops the loop iteration
+
+
+
+
+
+for num in test:
+	for letter in 'abc':
+		print(num, letter)
+
+
+
+for i in range(4, 10):
+	print(i)
+
+
+
+y = 0
+
+while y < 10:
+	if y == 5:
+		break
+	print(y)
+	y += 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
