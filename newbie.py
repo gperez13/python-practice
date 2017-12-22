@@ -146,8 +146,15 @@ while y < 10:
 
 
 
+def hello_func(name):
+	return 'Hello {}'.format(name)
 
 
+print(hello_func('Gio'))
+# print(len(hello_func()))
+
+
+# print(hello_func().upper())
 
 
 
